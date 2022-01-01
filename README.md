@@ -29,7 +29,7 @@ Hello! I'm **Haoning**, a computer science postgraduate and architectural design
 When I'm not in front of a screen, I'm probably drawing manga, writing blogs, reading books or watching animations.
 
 <p align="right">
-  <img height="150px" src="assets/whn.png" align="right" alt="Github Avatar">
+  <img height="180px" src="assets/whn.png" align="right" alt="Github Avatar">
 </p>
 
 
@@ -43,7 +43,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 
 #### 📋 Recent Dev Projects
 
-| Project Name                                                 | Category     |
+| Project Name<img width=440px>                                | Category<img width=260px>     |
 | :----------------------------------------------------------- | ------------ |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme |
 | [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++          |
