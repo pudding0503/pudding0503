@@ -43,7 +43,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 
 #### 📋 Recent Dev Projects
 
-| Project Name<img width=440px>                                | Category<img width=260px>     |
+| Project Name<img width=440px> | Category<img width=260px> |
 | :----------------------------------------------------------- | ------------ |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme |
 | [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++          |
