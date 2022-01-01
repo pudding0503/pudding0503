@@ -1,7 +1,6 @@
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/18262199" align="center" alt="Github Avatar" />
  <h2 align="center">Haoning Wu</h2>
- <p align="center">C++ and Swift developers on Windows & macOS</p>
 </p>
 
 <p align="center">
@@ -15,19 +14,22 @@
   	<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   <a href="https://www.behance.net/haoning">
-  	<img alt="Behance" src="https://img.shields.io/badge/Behance-227BEF?style=for-the-badge&logo=behance&logoColor=white" />
+  	<img alt="Behance" src="https://img.shields.io/badge/Behance-105DFB?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.zhihu.com/people/nousbuild">
+  	<img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-147FE4?style=for-the-badge&logo=zhihu&logoColor=white" />
   </a>
 </p>
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
 </p>
 
-Hello! I'm **Haoning**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="24"/>[@bitcookies](https://github.com/bitcookies/).
+Hello! I'm **Haoning**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
 
 When I'm not in front of a screen, I'm probably drawing manga, writing blogs, reading books or watching animations.
 
 <p align="right">
-  <img height="300px" src="assets/whn.png" align="right" alt="Github Avatar" />
+  <img height="150px" src="assets/whn.png" align="right" alt="Github Avatar" />
 </p>
 
 #### ⚡️ A Few Quick Facts
@@ -41,7 +43,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 #### 📋 Recent Dev Projects
 
 | Project Name                                                 | Category     |
-| ------------------------------------------------------------ | ------------ |
+| :----------------------------------------------------------- | ------------ |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme |
 | [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++          |
 | [CatTalk](https://github.nousbuild.com/get-cityweather/)     | Mini Program |
