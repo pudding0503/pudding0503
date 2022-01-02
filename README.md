@@ -33,6 +33,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 <p align="right">
   <img height="180px" src="assets/whn.png" align="right" alt="Github Avatar">
 </p>
+
 #### ⚡️ A Few Quick Facts
 
 - 🎓 Graduate student, majoring in _Computer Science_ and _Civil Engineer_.
