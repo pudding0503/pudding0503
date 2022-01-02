@@ -18,10 +18,12 @@
   <a href="https://www.zhihu.com/people/nousbuild">
   	<img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-147FE4?style=for-the-badge&logo=zhihu&logoColor=white" />
   </a>
+  <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwindmill0503&labelColor=%23152136&countColor=%23ff8a65" />
 </p>
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
 </p>
+
 
 
 Hello! I'm **Haoning**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
@@ -31,8 +33,6 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 <p align="right">
   <img height="180px" src="assets/whn.png" align="right" alt="Github Avatar">
 </p>
-
-
 #### ⚡️ A Few Quick Facts
 
 - 🎓 Graduate student, majoring in _Computer Science_ and _Civil Engineer_.
