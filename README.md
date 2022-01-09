@@ -10,10 +10,13 @@
   	<img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/10242225/haoning">
-  	<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  	<img alt="Stack Overflow" src="https://img.shields.io/badge/Stack-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
   <a href="https://www.behance.net/haoning">
   	<img alt="Behance" src="https://img.shields.io/badge/Behance-105DFB?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.pixiv.net/users/69771423">
+  	<img alt="Pixiv" src="https://img.shields.io/badge/Pixiv-3996FB?style=for-the-badge&logo=pixiv&logoColor=white" />
   </a>
   <a href="https://www.zhihu.com/people/nousbuild">
   	<img alt="Zhihu" src="https://img.shields.io/badge/Zhihu-147FE4?style=for-the-badge&logo=zhihu&logoColor=white" />
@@ -23,7 +26,6 @@
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
 </p>
-
 
 
 Hello! I'm **Haoning**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
