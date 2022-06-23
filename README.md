@@ -33,8 +33,9 @@ Hello! I'm **Haoning**, a computer science postgraduate and architectural design
 When I'm not in front of a screen, I'm probably drawing manga, writing blogs, reading books or watching animations.
 
 <p align="right">
-  <img height="180px" src="assets/whn.png" align="right" alt="Github Avatar">
+  <img height="330px" src="assets/pudding.png" align="right" alt="Pudding">
 </p>
+
 
 #### ⚡️ A Few Quick Facts
 
