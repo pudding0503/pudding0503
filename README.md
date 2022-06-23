@@ -47,7 +47,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 
 #### 📋 Recent Dev Projects
 
-| Project Name <img width=240/> | Category <img width=160/> |
+| Project Name <img width=210/> | Category <img width=110/> |
 | :----------------------------------------------------------- | ------------ |
 | [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration              |
 | [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme              |
