@@ -45,7 +45,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 - 🏷 Personal Webmaster ([nousbuild.org](https://www.nousbuild.org/)).
 - ✏️ Original Comic Author ([CatTalk](https://cattalk.nousbuild.org/)).
 - 🎨 Original Illustration Author ([My illustrations](https://www.nousbuild.org/illustration/)).
-- ⚡ Writing code with _C++_ / _Swift_ / _JavaScript_ / _Python_ / _Matlab_.
+- ⚡ Writing code with _C++_ / _Java_ / _Swift_ / _JavaScript_ / _Python_ / _Matlab_.
 - 📫 Contact me via [leave a message](https://www.nousbuild.org/me/connect/).
 
 #### 📋 Recent Dev Projects
