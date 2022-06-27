@@ -33,8 +33,11 @@ Hello! I'm **Haoning**, a computer science postgraduate and architectural design
 When I'm not in front of a screen, I'm probably drawing manga, writing blogs, reading books or watching animations.
 
 <p align="right">
-  <img width="210px" src="assets/pudding.png" align="right" alt="Pudding">
+  <a href="https://github.com/pudding0503">
+      <img width="210px" src="assets/pudding.png" align="right" alt="Pudding">
+  </a>
 </p>
+
 
 #### ⚡️ A Few Quick Facts
 
@@ -47,7 +50,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 
 #### 📋 Recent Dev Projects
 
-| Project Name <img width=210/> | Category <img width=110/> |
+| Project Name <img width=190/> | Category <img width=100/> |
 | :----------------------------------------------------------- | ------------ |
 | [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration              |
 | [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme              |
