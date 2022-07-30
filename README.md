@@ -23,10 +23,10 @@
   </a>
   <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpudding0503&labelColor=%23152136&countColor=%23ff8a65" />
 </p>
+
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
 </p>
-
 
 Hello! I'm **Haoning**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
 
@@ -37,7 +37,6 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
       <img width="210px" src="assets/pudding.png" align="right" alt="Pudding">
   </a>
 </p>
-
 
 #### ⚡️ A Few Quick Facts
 
@@ -50,7 +49,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 
 #### 📋 Recent Dev Projects
 
-| Project Name <img width=190/> | Category <img width=100/> |
+| Project Name <img width="190px"> | Category <img width="100px"> |
 | :----------------------------------------------------------- | ------------ |
 | [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration              |
 | [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme              |
