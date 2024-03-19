@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/18262199" align="center" alt="Github Avatar" />
+ <img width="100px" src="assets/avatar.png" align="center" alt="Github Avatar" />
  <h2 align="center">Haoning Wu</h2>
 </p>
 <p align="center">
@@ -23,6 +23,7 @@
   </a>
   <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpudding0503&labelColor=%23152136&countColor=%23ff8a65" />
 </p>
+
 
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
