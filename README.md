@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="assets/avatar.png" align="center" alt="Github Avatar" />
- <h2 align="center">Haoning Wu</h2>
+ <h2 align="center">ONing</h2>
 </p>
 <p align="center">
   <a href="https://www.nousbuild.org/">
@@ -25,11 +25,12 @@
 </p>
 
 
+
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
 </p>
 
-Hello! I'm **Haoning**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
+Hello! I'm **ONing**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
 
 When I'm not in front of a screen, I'm probably drawing manga, writing blogs, reading books or watching animations.
 
@@ -41,12 +42,13 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 
 #### ⚡️ A Few Quick Facts
 
-- 🎓 Graduate student, majoring in _Computer Science_ and _Civil Engineer_.
+- 🎓 Graduate student, majoring in _Computer Science_ and _Civil Engineer & Architecture_.
 - 🏷 Personal Webmaster ([nousbuild.org](https://www.nousbuild.org/)).
+- 💻 Developing brands ([bitcookies.nousbuild.com](https://bitcookies.nousbuild.com/)).
 - ✏️ Original Comic Author ([CatTalk](https://cattalk.nousbuild.org/)).
 - 🎨 Original Illustration Author ([My illustrations](https://www.nousbuild.org/illustration/)).
-- ⚡ Writing code with _C++_ / _Java_ / _Swift_ / _JavaScript_ / _Python_ / _Matlab_.
-- 📫 Contact me via [leave a message](https://www.nousbuild.org/me/connect/).
+- ⚡ Writing code with _C++_ / _Java_ / _Swift_ / _Node.js_ / _Python_ / _Matlab_.
+- 📫 Contact me via [leave a message](https://www.nousbuild.org/me/connect/) or email.
 
 #### 📋 Recent Dev Projects
 
