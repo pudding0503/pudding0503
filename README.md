@@ -25,12 +25,11 @@
 </p>
 
 
-
 <p align="center">
-  <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bit Cookies</a>
+  <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bitcookies</a>
 </p>
 
-Hello! I'm **ONing**, a computer science postgraduate and architectural designer from China who has a passion for learning new stuffs and sharing knowledge with others. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
+Hello! I'm **ONing**, a master's degree in computer science, a bachelor's degree in structural design, and an amateur illustrator. **Pudding** is the first illustration image character I drew. My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
 
 When I'm not in front of a screen, I'm probably drawing manga, writing blogs, reading books or watching animations.
 
