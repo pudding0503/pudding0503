@@ -28,6 +28,7 @@
 <p align="center">
   <a href="https://www.nousbuild.org/">My Website</a> | <a href="https://bitcookies.nousbuild.com/">Bitcookies</a>
 </p>
+
 Hello! I'm **ONing**, a master's degree in computer science, a bachelor's degree in structural design, and an amateur illustrator. **Pudding** is the first illustration image character I drew. 
 
 My published application can be seen on this github account <img src="assets/bitcookies.svg" width="18px"/>[@bitcookies](https://github.com/bitcookies/).
