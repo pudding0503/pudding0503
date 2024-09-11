@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="assets/avatar.png" align="center" alt="Github Avatar" />
+ <img width="100px" src="assets/avatar.png" align="center" alt="My Avatar" />
  <h2 align="center">ONing</h2>
 </p>
 <p align="center">
@@ -48,7 +48,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 - 💻 Developing brands ([bitcookies.nousbuild.com](https://bitcookies.nousbuild.com/)).
 - ✏️ Original Comic Author ([CatTalk](https://cattalk.nousbuild.org/)).
 - 🎨 Original Illustration Author ([My illustrations](https://www.nousbuild.org/illustration/)).
-- ⚡ Writing code with _C++_ / _Java_ / _Swift_ / _Node.js_ / _Python_ / _Matlab_.
+- ⚡ Writing code with _Java_ / _Python_ / _Rust_ / _C++_ / _Matlab_.
 - 📫 Contact me via [leave a message](https://www.nousbuild.org/me/connect/) or email.
 
 #### 📋 Recent Dev Projects
