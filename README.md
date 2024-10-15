@@ -50,7 +50,7 @@ When I'm not in front of a screen, I'm probably drawing manga, writing blogs, re
 - 🎨 Original Illustration Author ([My illustrations](https://www.nousbuild.org/illustration/)).
 - ⚡ Writing code with _Java_ / _Python_ / _Rust_ / _C++_ / _Matlab_.
 - 📫 Contact me via [leave a message](https://www.nousbuild.org/me/connect/) or email.
-- 📫 Web friend's link [here](https://github.com/pudding0503/friends) application.
+- 💞 Web friend's link [here application](https://github.com/pudding0503/friends).
 
 #### 📋 Recent Dev Projects
 
