@@ -11,9 +11,7 @@
   <a href="https://www.nousbuild.org/">Website</a> | <a href="https://bitcookies.nousbuild.com/">Bitcookies</a>
 </p>
 
-Hi! I'm **ONing**, a PhD candidate working on deep learning, AI agents, simulation, and digital twins.  
-I hold a master's degree in computer science, where my research focused on platform development and data retrieval.  
-**Pudding** is the first illustrated character I created.
+Hi! I'm **ONing**, a PhD candidate working on deep learning, AI agents, simulation, and digital twins. I hold a master's degree in computer science, where my research focused on platform development and data retrieval. **Pudding** is the first illustrated character I created.
 
 You can find my published projects on GitHub: <img src="assets/bitcookies.svg" width="16px"/>[@bitcookies](https://github.com/bitcookies/).
 
@@ -33,7 +31,7 @@ When I'm not in front of a screen, I work on illustration, merchandise design, a
 - 🎨 Illustrator ([My illustrations](https://www.nousbuild.org/illustration/)).
 - 🎮 Game developer.
 - ⚡ Programmer (_Java_ / _Python_ / _Rust_ / _C++_ / _MATLAB_ / _Node.js_).
-- 📫 Contact me via email.
+- 📫 Contact me via email or on Discord: bircookies.
 - 💞 Web friend's link [here](https://github.com/pudding0503/friends).
 
 #### 📋 Recent Dev Projects
