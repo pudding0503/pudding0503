@@ -44,4 +44,3 @@ When I'm not in front of a screen, I work on illustration, merchandise design, a
 | [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++ |
 | [CatTalk](https://pudding.nousbuild.com/get-cityweather/)     | Mini Program |
 | [City Weather](https://pudding.nousbuild.com/get-cityweather/) | Mini Program |
-| [Pitch Perfect](https://github.com/pudding0503/pitchPerfect) | Swift |
