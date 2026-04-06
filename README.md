@@ -41,6 +41,6 @@ When I'm not in front of a screen, I work on illustration, merchandise design, a
 | [Pudding Illustration](https://github.com/pudding0503/pudding-illustration) | Illustration |
 | [Frosted Glass Theme](https://github.com/bitcookies/frosted-glass-winrar-theme) | WinRAR Theme |
 | [Pudding VSCode Theme](https://github.com/bitcookies/pudding-vscode-theme) | VSCode Theme |
-| [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++ |
+| [WinRAR Keygen](https://github.com/bitcookies/winrar-keygen) | C++, C# and WPF |
 | [CatTalk](https://pudding.nousbuild.com/get-cityweather/)     | Mini Program |
 | [City Weather](https://pudding.nousbuild.com/get-cityweather/) | Mini Program |
