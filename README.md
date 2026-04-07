@@ -30,7 +30,7 @@ When I'm not in front of a screen, I work on illustration, merchandise design, a
 - 💻 Developing brands ([bitcookies.nousbuild.com](https://bitcookies.nousbuild.com/)).
 - 🎨 Illustrator ([My illustrations](https://www.nousbuild.org/illustration/)).
 - 🎮 Game developer.
-- ⚡ Programmer (_Java_ / _Python_ / _Rust_ / _C++_ / _MATLAB_ / _Node.js_).
+- ⚡ Programmer (_TS_ / _Java_ / _Python_ / _C#_ / _C++_ /  _Node.js_).
 - 📫 Contact me via email or on Discord: bircookies.
 - 💞 Web friend's link [here](https://github.com/pudding0503/friends).
 
